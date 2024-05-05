@@ -2,3 +2,4 @@ flask
 ntscraper
 pandas
 tqdm
+gradio
